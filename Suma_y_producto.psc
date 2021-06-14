@@ -2,15 +2,13 @@ Algoritmo Suma_y_producto
 	
 Definir a,b Como Entero
 
-Escribir "Escribe el primer número"
-Leer a
-Escribir "Escribe el segundo número"
-Leer b
+Escribir "Escribe dos nÃºmeros"
+Leer a, b
 
 suma <- a + b
 producto <- a * b
 
 Escribir "El resultado de la suma es ", suma
-Escribir "El resultado de la multiplicación es ", producto	
+Escribir "El resultado de la multiplicaciÃ³n es ", producto	
 	
 FinAlgoritmo
